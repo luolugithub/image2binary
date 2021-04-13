@@ -5,7 +5,7 @@ convert rgb image to thresh hold binary
 <img src="img_readme/101338.jpg" width=600 />
 
 ## Thresholding para
-<img src="img_readme/thrshold_params.png" width=600 />
+<img src="img_readme/thrshold_params.png" width=400 />
 
 ## Threshold demo
 <img src="img_readme/threshold.jpg" width=600 />
